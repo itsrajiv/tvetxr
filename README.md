@@ -42,7 +42,7 @@ _For database:-_
 
 **6) run - `php artisan storage:link`**
 
-**7) Create database - dev_elearning**
+**7) Create database - dev_tvetxr**
 
 **8) run - `php artisan migrate`**
 
