@@ -26,8 +26,8 @@ Just make sure that your Laragon run with below Environment
 ### To Run Web System
 
 **1) Clone**
-- SSH : `git clone git@gitlab.com:zulwaqarzain96/elearning.git`
-- HTTPS : `git clone https://gitlab.com/zulwaqarzain96/elearning.git`
+- SSH : `git clone git@gitlab.com:zulzayn/tvetxr.git`
+- HTTPS : `git clone https://gitlab.com/zulzayn/tvetxr.git`
 
 **2) run - `composer install`**
 
