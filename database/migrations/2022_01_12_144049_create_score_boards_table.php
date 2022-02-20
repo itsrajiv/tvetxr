@@ -17,6 +17,8 @@ class CreateScoreBoardsTable extends Migration
             $table->id();
             $table->text('name')->nullable();
             $table->text('score')->nullable();
+            $table->integer('box')->nullable();
+            $table->text('time_completion')->nullable();
             $table->text('created_by')->nullable();
             $table->text('updated_by')->nullable();
             $table->timestamps();
