@@ -1,4 +1,4 @@
-<p align="center"><a href="https://tvetxr.ga/" target="_blank"><img src="https://gitlab.com/zulwaqarzain96/tvetxr/-/raw/master/public/img/TVETXRlogo.png" width="400"></a></p>
+<p align="center"><a href="https://tvetxr.ga/" target="_blank"><img src="https://gitlab.com/zulzayn/tvetxr/-/raw/master/public/img/TVETXR.jpg" width="400"></a></p>
 
 <p align="center">
 <a href="https://gitlab.com/ImranShamm/hse-magicx/-/pipelines"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
