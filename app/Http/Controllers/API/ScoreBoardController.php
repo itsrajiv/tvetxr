@@ -16,7 +16,7 @@ class ScoreBoardController extends Controller
      */
     public function index()
     {
-        $scoreboard = ScoreBoard::orderby('time_completion')->get();
+        $scoreboard = ScoreBoard::orderby('time_completion', 'DESC')->get();
 
         return json_encode($scoreboard);
     }
