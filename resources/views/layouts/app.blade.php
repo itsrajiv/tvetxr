@@ -376,7 +376,7 @@
     <script src="{{ asset('assets/plugins/dropify/dist/js/dropify.min.js') }}"></script>
 
     
-    <script>
+    {{-- <script>
         if ('serviceWorker' in navigator) {
             navigator.serviceWorker
                 .register('/_service-worker.js')
@@ -387,7 +387,7 @@
                 console.log(err);
                 });
             }
-    </script>
+    </script> --}}
 
     @stack('scripts')
 
