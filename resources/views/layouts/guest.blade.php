@@ -6,7 +6,7 @@
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
         {{-- PWA Manifest --}}
-        <link rel="manifest" href="{{URL::to('_manifest.json')}}">
+        {{-- <link rel="manifest" href="{{URL::to('_manifest.json')}}"> --}}
         
        <!-- Favicon icon -->
        <link rel="shortcut icon" href="{{ URL::asset('TVETXR.ico') }}" type="image/x-icon">
@@ -51,7 +51,7 @@
     <script src="assets/landingpage/scripts.js"></script>
 
     
-    <script>
+    {{-- <script>
         if ('serviceWorker' in navigator) {
             navigator.serviceWorker
                 .register('/_service-worker.js')
@@ -62,6 +62,6 @@
                 console.log(err);
                 });
             }
-    </script>
+    </script> --}}
 
 </html>
