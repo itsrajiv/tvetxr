@@ -339,7 +339,7 @@
                     <!-- ============================================================== -->
                     <!-- footer -->
                     <!-- ============================================================== -->
-                    <footer class="footer"> © <script>document.write(new Date().getFullYear());</script> Magicx Sdn Bhd </footer>
+                    <footer class="footer"> © <script>document.write(new Date().getFullYear());</script> UTM MaGICX </footer>
                     <!-- ============================================================== -->
                     <!-- End footer -->
                     <!-- ============================================================== -->
